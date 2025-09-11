@@ -12,6 +12,7 @@ def insertNumber(number):
 
 # def operation(symbol):
 #     operate
+#
 
 def calculate():
     expression = entry.get(0, END)
